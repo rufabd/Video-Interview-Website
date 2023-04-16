@@ -1,0 +1,9 @@
+.video_container video {
+  width: 96%;
+  padding: 0px 0px 0px 30px;
+}
+
+.video_title {
+  padding-left: 30px;
+  color: white;
+}
